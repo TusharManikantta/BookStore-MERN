@@ -41,7 +41,7 @@ root/
 3. `config.js` was created to store constants like the port.
 4. Added a **GET** method to test the initial setup.
 5. Added MongoDB connection using **Mongoose** (`npm i mongoose`) and stored `MONGODB_URL` in `config.js`.  
-   > Password: `9512701Y`
+   
 6. Created a `models` folder and implemented the **BookSchema** model.
 7. Implemented the following REST API operations:
    - **POST**: To create a book
